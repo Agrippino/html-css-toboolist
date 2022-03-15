@@ -1,15 +1,13 @@
-/* grafica primo blocco*/
-{background-color:aliceblue; vertical-align: middle;line-height: 70px;font-size: 35px;font-family: Arial, Helvetica, sans-serif;}
-img { width: 10%; height: auto; margin-right: 90%;}
-header {border-style: solid 5px; background-color: white;}
+/* grafica primo blocco*/  
+*{ box-sizing: border-box;width: 200px; height: 200px;}
+header{background-color: white;border-style: solid 5px;font-size: 35px;font-family: Arial, Helvetica, sans-serif; }
+img { width: 100px; height: 100px; margin-right: 90%;}
 
 #sfondo1 {background-color: gray;}
 #sfondo2 {background-color: white}
 /*grafica secondo blocco*/
-#AT { border-style: solid; border-width: 3px 3px; border-radius: 10px; padding: 3px; padding: 5px 5px ; background-color: cadetblue; color: aliceblue; font-style: italic;}
-#AS { border-style: solid; border-width: 3px 3px; border-radius: 10px; padding: 3px; padding: 5px 5px ; background-color: white; color: grey; font-style: italic;}
+#AT { border-style: solid; border-width: 3px 3px; border-radius: 10px; padding: 5px 5px;  background-color: cadetblue; color: aliceblue; font-style: italic;}
+#AS { border-style: solid; border-width: 3px 3px; border-radius: 10px; padding: 5px 5px;  background-color: white; color: grey; font-style: italic;}
 
 /*grafica terzo blocco */
-.headl { 
-
-}
+.E{ border: 1px solid cadetblue ; border-width: 3px 3px; border-radius: 10px; padding: 5px 5px; background-color: cadetblue; color: aliceblue; font-style: italic;font-size: 13px;}
