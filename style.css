@@ -21,15 +21,23 @@ body{
 #sfondo2{margin-top: 2%;
 
 }
-.paggind{
-    padding-left: 10%;
-    padding-right: 10% ;
+.padding{
+    padding: 5px;
 }
 
-span{
+p{
+    display: inline;
     width: 25px;
     height: 25px;
     border-radius: 10%;
     border: solid 1px yellow;
-
+}
+span{
+    padding: 3px;
+    align-content: center;
+    margin-left: 2px;
+    width: 25px;
+    height: 25px;
+    border-radius: 35%;
+    border: solid 1px yellow;
 }
