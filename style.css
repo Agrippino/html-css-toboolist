@@ -40,8 +40,9 @@ span{
     height: 25px;
     border-radius: 35%;
     border: solid 1px yellow;
+    color: rgba(239,248,253,255);
 }
-/*colori box*/
+/*colori box e testo*/
 .e{background-color: rgba(69,171,234,255);}
 .q{background-color: rgba(156,114,228,255);}
 .r{background-color: rgba(100,192,169,255);}
