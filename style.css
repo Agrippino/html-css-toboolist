@@ -9,12 +9,12 @@
     width:auto;
     line-height: 100px;
     border: solid red;
-    background-color: aliceblue; 
+    background-color: rgba(255,255,255,255); 
 }
 body{
     height: auto;
     width: auto;
-    background-color: grey;
+    background-color: rgba(246,248,249,255);
     border: solid blue;
 }
 
