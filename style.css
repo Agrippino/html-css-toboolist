@@ -25,16 +25,17 @@ body{
     height: auto;
     margin-top: 3%;
 }
+/*lista impegni*/
 #ATAS{
     margin-left: 3%;
     margin-top: 2%;
     margin-bottom: 1%;
 } 
 .add{
-    width: 1000px;
-    height: 20px;       
+    width: 30px;
+    height: 30px; 
+    padding: 10px;
     border-radius: 10%;
-    border: solid 1px rgba(71,173,241,255);
 }
 
 #liste{
@@ -46,17 +47,14 @@ li{
     
 }
 .bottoni{
-    /*padding: 3px;*/
+    padding: 3px;
     align-content: center;
     margin-left: 5px;
     width: 100px;
     height: 100px;
     border-radius: 35%;
 }
-    
-.text-color{color: rgba(239,248,253,255);}
-    
-
+/*caselle fatto e non fatto*/
 .done{
     width: 25px;
     height: 25px;
