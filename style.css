@@ -11,17 +11,27 @@
     border: solid red;
     background-color: rgba(255,255,255,255); 
 }
+head{
+    background-color: aliceblue;
+    border: solid 4px violet;
+}
 body{
-    height: auto;
-    width: auto;
+    padding: 5%;
     background-color: rgba(246,248,249,255);
     border: solid blue;
 }
 
-#sfondo1{ display: inline-block;
+#sfondo1{ 
     background-color:rgba(255,255,255,255) ;
+    border: solid 1px black;
+    width:auto ;
+    height: auto;
+    margin-top: 3%;
+}
+#ATAS{
+    margin-left: 3%;
     margin-top: 2%;
-    padding-left: 5%;
+    margin-bottom: 1%;
 }
 .padding{
     padding: 5px;
