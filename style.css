@@ -32,7 +32,7 @@ body{
     margin-left: 3%;
     margin-top: 2%;
     margin-bottom: 1%;
-}
+} 
 .padding{
     padding: 5px;
 }
@@ -43,6 +43,12 @@ body{
     height: 25px;
     border-radius: 10%;
     border: solid 1px yellow;
+}
+#liste{
+    margin-left: 3%;
+}
+li{
+    margin: 2%;
 }
 .bottoni{
     padding: 3px;
