@@ -29,22 +29,19 @@ body{
 #ATAS{
     margin-left: 3%;
     margin-top: 2%;
-    margin-bottom: 1%;
+    margin-bottom: 20px;
 } 
 .add{
     width: 30px;
     height: 30px; 
     padding: 10px;
-    border-radius: 10%;
+    border-radius: 10px;
 }
 
-#liste{
-    margin-left: 3%;
-}
+h2{ margin-left: 3%;}
 li{
     margin-top: 1%;
-    margin-bottom: 2%;
-    
+    margin-bottom: 2%;    
 }
 .bottoni{
     padding: 3px;
@@ -56,6 +53,7 @@ li{
 .done{
     width: 25px;
     height: 25px;
+    
     border: solid 1px;
     color: green;
     border-color: green;
@@ -63,6 +61,7 @@ li{
 .n-done{
     width: 25px;
     height: 25px;
+    margin-right: 1%;
     border: solid 1px;
     color: red;
     border-color: red;
