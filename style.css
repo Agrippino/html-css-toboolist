@@ -6,18 +6,18 @@
 }
 #title
 {   height: 100px;
-    width: auto;
     line-height: 100px;
     border: solid red;
     background-color: rgba(255,255,255,255); 
 }
 body{
-    padding: 5%;
+    
     background-color: rgba(246,248,249,255);
     border: solid blue;
 }
 
 #sfondo1{ 
+    margin: 30px;
     background-color:rgba(255,255,255,255) ;
     border: solid 1px black;
     border-radius: 1%;
@@ -50,9 +50,7 @@ li{
     padding: 3px;
     align-content: center;
     margin-left: 5px;
-    width: 100px;
-    height: 100px;
-    border-radius: 35%;
+    border-radius: 10px;
 }
 /*caselle fatto e non fatto*/
 .done{
