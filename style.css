@@ -1,3 +1,4 @@
+/*copro della pagina*/
 *{box-sizing: border-box;
     margin:0;}
 
@@ -11,24 +12,30 @@
     background-color: rgba(255,255,255,255); 
 }
 body{
-    
-    background-color: rgba(246,248,249,255);
+    background-color: rgba(255,255,255,255);
     border: solid blue;
+    padding-left: 17%;
+    padding-right: 17%;;
+    padding-bottom: 3%;
 }
-
+#sfondogrigio{
+    background-color: gray;
+    border: solid black;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+}
 #sfondo1{ 
     margin: 30px;
     background-color:rgba(255,255,255,255) ;
     border: solid 1px black;
     border-radius: 1%;
-    width:auto;
-    height: auto;
-    margin-top: 3%;
+    margin-top: 4%;
 }
 /*lista impegni*/
 #ATAS{
     margin-left: 3%;
-    margin-top: 2%;
+    margin-top: 3%;
     margin-bottom: 20px;
 } 
 .add{
