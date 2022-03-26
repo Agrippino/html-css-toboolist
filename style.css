@@ -75,7 +75,9 @@ li{
     border: solid 1px;
     color: green;
     border-color: green;
-    border-radius: 50%;}
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;}
 .n-done{
     width: 25px;
     height: 25px;
@@ -83,7 +85,11 @@ li{
     border: solid 1px;
     color: red;
     border-color: red;
-    border-radius: 50%;}
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+
+}
 /*colori box e testo*/
 .e{background-color: rgba(71,173,241,255);
     border: solid 1px rgba(71,173,241,255)}
